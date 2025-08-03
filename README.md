@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Satlaj Thakur</h1>
 <h3 align="center">Experienced Data Engineer with 3+ years of expertise in designing and optimizing large-scale data processing systems. Skilled in ETL processes, data modeling, and building efficient, scalable data pipelines. Proficient in SQL,Python & Spark, also various cloud services like snowflake,AWS & Databricks.</h3>
 
-- 🌱 I’m currently learning **DBT**
+- 🌱 I’m currently learning **DBT.**
 
-- 💬 Ask me about **Pyspark,SQL,Python and Data Engineering related tools & tech**
+- 💬 Ask me about **Pyspark,SQL,Python and Data Engineering related tools & technologies.**
 
 - 📫 How to reach me **samit5178@gamil.com**
 
