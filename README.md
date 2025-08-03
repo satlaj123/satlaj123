@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Satlaj Thakur</h1>
-<h3 align="center">Experienced Data Engineer with 3+ years of expertise in designing and optimizing large-scale data processing systems. Skilled in ETL processes, data modeling, and building efficient, scalable data pipelines. Proficient in SQL,Python & Spark, also various cloud services like snowflake,AWS & Databricks.</h3>
+<h3 align="center">Results-driven Data Engineer with over 4 years of experience in designing, building, and optimizing large-scale data processing systems. Expertise in ETL development, data modeling, and creating scalable, high-performance data pipelines. Proficient in SQL, Python, and Apache Spark, with hands-on experience in cloud platforms including Snowflake, AWS, and Databricks.</h3>
 
 - 🌱 I’m currently learning **DBT.**
 
