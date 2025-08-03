@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **DBT**
 
-- 💬 Ask me about **Pyspark,SQL and Python**
+- 💬 Ask me about **Pyspark,SQL,Python and Data Engineering related tools & tech**
 
 - 📫 How to reach me **samit5178@gamil.com**
 
