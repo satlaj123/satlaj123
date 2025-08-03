@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Satlaj Thakur</h1>
 <h3 align="center">Experienced Data Engineer with 3+ years of expertise in designing and optimizing large-scale data processing systems. Skilled in ETL processes, data modeling, and building efficient, scalable data pipelines. Proficient in SQL,Python & Spark, also various cloud services like snowflake,AWS & Databricks.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=satlaj123&label=Profile%20views&color=0e75b6&style=flat" alt="satlaj123" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=satlaj123" alt="satlaj123" /></a> </p>
-
 - 🌱 I’m currently learning **Microsoft Azure, DBT**
 
 - 💬 Ask me about **SQL,Python,DSA,Statistics & Mathematics**
